@@ -1,0 +1,14 @@
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csprojAssemblyReference.cache
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+C:\Users\tzwyf\Desktop\2020\Siki课程\暗影战神资料\ResDarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+D:\UnityRepo\DarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+D:\UnityRepo\DarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+D:\UnityRepo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csprojAssemblyReference.cache
+D:\UnityRepo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\UnityRepo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\UnityRepo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\UnityRepo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
